@@ -77,9 +77,9 @@ $('nav a').click(function(event) {
 
 var images = [];
 
-images[0] = ['https://raw.githubusercontent.com/BuddyBuie/April-White-Navigation/main/img/profile.png'];
-images[1] = ['https://assets.codepen.io/122136/girl-photo.jpg'];
-images[2] = ['https://assets.codepen.io/122136/splash-photo.jpg'];
+images[0] = ["./img/profile.png"];
+images[1] = ["./img/profile2.png"];
+images[2] = ["./img/profile3.png"];
 var index = 0;
 
 function change() {
