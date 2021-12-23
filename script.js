@@ -53,7 +53,7 @@ function change() {
     index++;
   }
 
-  setTimeout(change, 5000);
+  setTimeout(change, 10000);
 }
 
 window.onload = change();
